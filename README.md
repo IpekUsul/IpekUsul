@@ -8,7 +8,7 @@
 
 
 ###  About Me:
-- 🔭 I'm 21 years old.I was translation and interpretation student at the university, however I am not a current student because my academic goal is not the department I was enrolled in. In line with my academic expectations, I will apply to a university where I can develop myself better equipped in the field of computer engineering.
+- 🔭I am 21 years old. I was a Translation and Interpretation student at the university, but I'm not a student for the time being because my academic goal was not the department I was enrolled in. Soon, I will apply to a university where I can develop myself better in the field of computer engineering in line with my academic goals.
 
 -🐍 For now, I'm only dealing with Python projects.
 
