@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img  alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/raw/main/giphy.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img  src="https://camo.githubusercontent.com/969ba67430580b5aeadad5ae0ec7dd6a6a57bb36bbc1b59960a80a35a749c85b/68747470733a2f2f632e74656e6f722e636f6d2f77686751774e6c56764e6b41414141692f7865726f2d636f64652e676966" alt="img" align="center" data-canonical-src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 
