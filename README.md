@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img  align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/raw/main/giphy.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img  alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/raw/main/giphy.gif" height="320" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 </p>
 
 
