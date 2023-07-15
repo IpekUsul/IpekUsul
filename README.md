@@ -10,13 +10,13 @@
 ###  About Me:
 - 🔭I am 21 years old. I was a Translation and Interpretation student at the university, but I'm not a student for the time being because my academic goal was not the department I was enrolled in. Soon, I will apply to a university where I can develop myself efficiently in the field of computer engineering in line with my academic goals.
 
--🐍 For now, I'm only dealing with Python projects.
+- 🐍 For now, I'm only dealing with Python projects.
 
--👩🏻‍💻 I am currently developing myself on computer algorithms.
+- 👩🏻‍💻 I am currently developing myself on computer algorithms.
 
--🌟I am  enthusiastic about artificial intelligence and machine learning.
+- 🌟I am  enthusiastic about artificial intelligence and machine learning.
 
--📁 I share my Python project trials and things I learned here.
+- 📁 I share my Python project trials and things I learned here.
 
 - 💭 Although the use of artificial intelligence is widespread in every field as it contributes greatly to most studies in general, I can be active in Data Modeling and Prediction to reduce ocean pollution in studies such as detecting illegal fishing, monitoring the diversity of marine species.
 
